@@ -13,7 +13,7 @@ The sources are defined in the news_sources list.
 BeautifulSoup is used to parse the HTML content of the news sources, and the find_all() method is used to extract the relevant information. 
 The date field is generated using the strftime() method of the datetime module.
 
-This app has built for two purposes, to provide a much needed avenue to daily cybersecurity updates in a neat manner in which a user can choose to populate their feed according to their interests.
+This app has been built for two purposes, to provide a much needed avenue to daily cybersecurity updates in a neat manner in which a user can choose to populate their feed according to their interests.
 The second purpose was to present another cybersecurity service that could potentially be added to the Hello Security Research Labs lineup of tools and services. 
 
 The app is currently designed to run on the localhost for testing purposes, and the MongoDB database is also running on the localhost. 
