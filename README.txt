@@ -19,3 +19,5 @@ The second purpose was to present another cybersecurity service that could poten
 The app is currently designed to run on the localhost for testing purposes, and the MongoDB database is also running on the localhost. 
 The app can be run by executing the app.py file, and it will start a development server on the local machine. 
 The debug=True parameter in the app.run() method enables debug mode, which provides detailed error messages in case of any issues.
+
+The HelloInsight app is Developed by abtzpro, Adam R, and Hello Security
